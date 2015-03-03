@@ -11,7 +11,7 @@
 # To install this environment using git, I suggest that you do the following:
 # >mkdir QME
 # >cd QME
-# >git clone https://github.com/detstorabla/qme 
+# >git clone https://github.com/qmeteam/QME 
 # ./install.sh
 # Set the Unix variables according to INSTALL.txt
 ##################################################################################
